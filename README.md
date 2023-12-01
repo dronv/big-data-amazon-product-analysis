@@ -70,7 +70,8 @@ Open your browser and go to http://localhost:9870 to view the HDFS web interface
 ## Dashboard
   Access the Dash Dashboard:
   
-  Open your browser and go to http://localhost:8050.
+  Open your browser and go to http://localhost:8050
+  <img width="925" alt="image" src="https://github.com/dronv/big-data-amazon-product-analysis/assets/41694884/44c06bae-a840-4ef0-8b61-ef04d70e0cc5">
   Navigate through different sections:
   
   ~ Discount Analysis
